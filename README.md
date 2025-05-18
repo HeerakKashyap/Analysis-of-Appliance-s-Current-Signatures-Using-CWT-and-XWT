@@ -18,3 +18,9 @@ Utilizes scipy.signal.cwt for the transformation, with a note that PyWavelets is
 **Cross Wavelet Transform (XWT) Analysis**
 Compares the time-frequency features of two different appliance signals.
 Highlights regions of high common power and phase relationships, useful for identifying correlated events or distinguishing between appliances.
+-
+*nterpretation and Conclusions*
+-
+Demonstrates that CWT effectively captures both steady-state and transient features in appliance current signatures.
+Shows that XWT can reveal similarities and differences between appliances, supporting advanced NILM and event detection tasks.
+Provides a foundation for further work in appliance classification and energy disaggregation.
