@@ -1,6 +1,8 @@
-*This repository presents an in-depth analysis of electrical appliance current signatures using Continuous Wavelet Transform (CWT) and Cross Wavelet Transform (XWT). The project demonstrates how time-frequency analysis techniques can be leveraged to extract, visualize, and compare the unique current signatures of different appliances, aiding in tasks such as appliance identification, monitoring, and non-intrusive load monitoring (NILM).
----
-*Key Features
+# Analysis of Appliance Current Signatures Using CWT and XWT
+
+This repository presents an in-depth analysis of electrical appliance current signatures using Continuous Wavelet Transform (CWT) and Cross Wavelet Transform (XWT). The project demonstrates how time-frequency analysis techniques can be leveraged to extract, visualize, and compare the unique current signatures of different appliances, aiding in tasks such as appliance identification, monitoring, and non-intrusive load monitoring (NILM).
+
+## Key Features
 ---
 *Data Acquisition and Preprocessing*
 The notebook loads and preprocesses current signal data for various household appliances. Data normalization and segmentation ensure robust analysis and visualization.
